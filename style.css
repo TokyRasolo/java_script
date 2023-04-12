@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(228, 231, 248);
+}
+.change{
+    visibility: hidden;
+}
+.change1{
+    background-color:black ;
+}
+.bt{
+    margin-left: 1000px;
+}
+.adve{
+    margin-bottom:50px;
+    margin-top:250px ;
+}
+ .adve_remove{
+    visibility: hidden;
+} 
+.adve1{
+  margin-left:1000px ;
+  margin-top: -70px;
+}
+.adve1_remove{
+    visibility: visible;
+}
+.cliquer{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    cursor: pointer;
+}
+.cliquer_remove{
+    visibility: hidden;
+}
+.cliquer:hover{
+    width: 210px;
+    height: 110px;
+}
+.cliquer1{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    cursor: pointer;
+    visibility: hidden;     
+}
+.cliquer1:hover{
+    width: 210px;
+    height: 110px;
+}
+.cliquer1_remove{
+    visibility: visible;
+}
